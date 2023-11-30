@@ -1,0 +1,15 @@
+datasets/*
+lite_models/*
+models/*
+SpaqLite/app/src/main/assets/*
+
+/pytorch_iqa
+/SPAQ
+/android
+/utils/convert.py
+
+*__pycache__
+
+.vscode
+.idea
+.venv
